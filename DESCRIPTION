@@ -6,7 +6,7 @@ Authors@R: c(
 	person("Pavel N.", "Krivitsky", role=c("aut","cre"), email="pavel@uow.edu.au", comment=c(ORCID="0000-0002-9101-3362")),
 	person("Skye", "Bender-deMoll", role=c("ctb"), email="skyebend@uw.edu"))
 Description: Non-statistical utilities used by the software developed by the Statnet Project. They may also be of use to others.
-Depends: R (>= 3.5)
+Depends: R (>= 3.4)
 Imports: utils, methods, coda, parallel, tools
 BugReports: https://github.com/statnet/statnet.common/issues
 License: GPL-3 + file LICENSE
